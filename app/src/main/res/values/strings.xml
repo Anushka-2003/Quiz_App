@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ques1">Select the correct option:</string>
+    <string name="sea">Sea</string>
+    <string name="rock">Rock</string>
+    <string name="land">Land</string>
+    <string name="sky">Sky</string>
+    <string name="next"><![CDATA[Next>]]></string>
+    <string name="car">Car</string>
+    <string name="rocket">Rocket</string>
+    <string name="train">Train</string>
+    <string name="ship">Ship</string>
+    <string name="previous"><![CDATA[<Previous]]></string>
+    <string name="submit">Submit</string>
+    <string name="pizza">Pizza</string>
+    <string name="burger">Burger</string>
+    <string name="pasta">Pasta</string>
+    <string name="noodles">Noodles</string>
+    <string name="_1_3">1/3</string>
+</resources>
